@@ -15,13 +15,13 @@
   </a>
 </p>
 
-- 🔹 **I’m currently working on:** Web Developing
+- 🔭 I’m currently working on **MERN**
 
-- 🔹 **I’m currently learning:** Python, C#, NodeJS
+- 🌱 I’m currently learning **NodeJS**
 
-- 🔹 **I’m looking to collaborate on:** Any Project
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 📧 **How to reach me:** Akilakasun100100@gmail.com
+- 📫 How to reach me **Akilakasun100100@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
