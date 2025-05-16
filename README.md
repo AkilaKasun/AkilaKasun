@@ -98,9 +98,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akilakasun&show_icons=true&locale=en&layout=compact" alt="akilakasun" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkilaKasun&show_icons=true&locale=en&layout=compact" alt="AkilaKasun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilakasun&show_icons=true&locale=en" alt="akilakasun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkilaKasun&show_icons=true&locale=en" alt="AkilaKasun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akilakasun&" alt="akilakasun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaKasun&" alt="AkilaKasun" /></p>
 </p>
